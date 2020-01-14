@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="633b6323-ad5c-4519-9425-313c3bff7c37" name="apache" url="http://localhost/firstweb">
+        <fileTransfer port="0" mountedRoot="F:\phpAapache\apache\Apache24\htdocs" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
